@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bencoolen-inn-bude.vercel.app/sitemap.xml
